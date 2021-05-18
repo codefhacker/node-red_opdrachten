@@ -1,0 +1,1 @@
+[{"id":"e9298d80.960d2","type":"inject","z":"6fe4bc5b.276f84","name":"Hallo bericht","props":[{"p":"payload"}],"repeat":"10","crontab":"","once":false,"onceDelay":0.1,"topic":"","payload":"Hallo Nederland","payloadType":"str","x":250,"y":200,"wires":[["e5ea0913.494fd8"]]}]
