@@ -1,0 +1,1 @@
+[{"id":"fc65bac6.8616a8","type":"rpi-gpio out","z":"6fe4bc5b.276f84","name":"","pin":"19","set":true,"level":"0","freq":"","out":"out","x":710,"y":200,"wires":[]}]
